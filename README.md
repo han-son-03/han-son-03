@@ -53,9 +53,6 @@
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact Me</h2><br>
-  <a href="[https://velog.io/@hktysh/posts](https://han-son.tistory.com)">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white">
-  </a>
   <a href="mailto:hktysh@nextrunners.co.kr">
     <img src="https://img.shields.io/badge/Email-EA4335?style=plastic&logo=Gmail&logoColor=white">
   </a>
