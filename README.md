@@ -26,6 +26,9 @@
     <li>Python 기초 </li>
     <li>Git/GitHub 협업 </li>
     <li>Linux 명령어 및 서버 환경 이해</li>
+    <li>database 기초 sql</li>
+    <li>flask, fastapi, 프레임 워크</li>
+    <li>AWS 클라우드 컴퓨팅</li>
   </ul>
 </div>
 
@@ -36,6 +39,8 @@
   <ul>
     <li>[ ] Django로 간단한 게시판 웹앱 만들기</li>
     <li>[ ] 쇼핑몰 대시보드 기능 정리 및 리팩터링</li>
+    <li>[ ] 미니프로젝트 완료하여 개선하기</li>
+    <li>[ ] 스크랩핑으로 티케팅 해보기</li>
   </ul>
 </div>
 
@@ -45,7 +50,8 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📆 Dev 타임라인</h2><br>
   <ul>
     <li><strong>2025.06</strong> - 개발 공부 시작</li>
-    <li><strong>2025.07</strong> - GitHub 프로필 정리</li>
+    <li><strong>2025.07</strong> - GitHub 프로필 정리, 파이썬 기초</li>
+    <li><strong>2025.08</strong> - 네트워크 기초</li>
   </ul>
 </div>
 
