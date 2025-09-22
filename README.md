@@ -29,6 +29,7 @@
     <li>database 기초 sql</li>
     <li>flask, fastapi, 프레임 워크</li>
     <li>AWS 클라우드 컴퓨팅</li>
+    <li>미니프로젝트를 통한 DJANGO 학습</li>
   </ul>
 </div>
 
@@ -40,7 +41,6 @@
     <li>[ ] Django로 간단한 게시판 웹앱 만들기</li>
     <li>[ ] 쇼핑몰 대시보드 기능 정리 및 리팩터링</li>
     <li>[ ] 미니프로젝트 완료하여 개선하기</li>
-    <li>[ ] 스크랩핑으로 티케팅 해보기</li>
   </ul>
 </div>
 
